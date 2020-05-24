@@ -1,10 +1,10 @@
 import React, { useState } from "react";
 
-const usePageState = ({ }) => {
+const useComponentState = ({ }) => {
 
     return {
 
     };
 }
 
-export default usePageState;
+export default useComponentState;
