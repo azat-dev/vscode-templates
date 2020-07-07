@@ -1,4 +1,3 @@
-type ComponentProps = {
-};
+interface Props___ComponentName___ {}
 
-export default ComponentProps; 
+export default Props___ComponentName___;

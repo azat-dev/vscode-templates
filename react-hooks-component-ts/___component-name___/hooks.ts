@@ -1,11 +1,8 @@
 import React, { useState } from "react";
-import ComponentProps from "./props";
+import Props___ComponentName___ from "./props";
 
-const usePageState = ({ }: ComponentProps) => {
+const use___ComponentName___State = ({}: Props___ComponentName___) => {
+    return {};
+};
 
-    return {
-
-    };
-}
-
-export default usePageState;
+export default use___ComponentName___State;
